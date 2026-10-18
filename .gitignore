@@ -1,0 +1,4 @@
+# Publish reviewed product documentation only.
+*
+!.gitignore
+!README.md
