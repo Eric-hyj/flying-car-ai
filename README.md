@@ -13,12 +13,12 @@ Flying Car AI turns a car photo into an AI Ramp Stunt video. Your photo supplies
 ## How to make a flying car AI video
 
 1. **Choose one car photo.** Use a clear side or three-quarter view with the whole vehicle and its wheels visible.
-2. **Select video quality.** A 480p request uses 50 credits; a 720p request uses 100 credits. Review the available [credit packs](https://flying-car-ai.com/pricing) before purchasing.
-3. **Continue with Google.** If you need credits, choose a pack and sign in to continue checkout. Your selected photo and quality are kept in the same browser during this journey.
-4. **Submit your Ramp Stunt.** The template includes the scene, action sequence and soundtrack. You supply the photo and choose quality, without writing a prompt or assembling separate clips.
+2. **Select quality and format.** A 480p request uses 50 credits; a 720p request uses 100 credits. Choose 4:3 Classic or 9:16 Vertical; the format does not change the credit cost. Review the available [credit packs](https://flying-car-ai.com/pricing) before purchasing.
+3. **Continue with Google.** If you need credits, choose a pack and sign in to continue checkout. Your selected photo, quality and format are kept in the same browser during this journey.
+4. **Submit your Ramp Stunt.** The template includes the scene, action sequence and soundtrack. You supply the photo and choose quality and format, without writing a prompt or assembling separate clips.
 5. **Review and download.** Follow the existing task while it processes. Once complete, play the full result and save the MP4 during its retention period.
 
-The configured target is approximately 14 seconds in 4:3. Each AI generation interprets its input across moving viewpoints. Review the vehicle, wheels, airborne action and landing before sharing.
+The configured target is approximately 14 seconds in your choice of 4:3 or 9:16. Each AI generation interprets its input across moving viewpoints. Review the vehicle, wheels, airborne action and landing before sharing.
 
 For the full workflow, read [How to Make a Flying Car AI Video](https://flying-car-ai.com/how-to-make-flying-car-video).
 
@@ -31,6 +31,8 @@ For the full workflow, read [How to Make a Flying Car AI Video](https://flying-c
 - Use a photo you own or have permission to use, including consent from anyone shown. Prepare the image before upload if it contains personal details you do not want to share.
 
 The [Flying Car AI photo guide](https://flying-car-ai.com/flying-car-ai-photo-guide) explains framing, lighting, angles and file requirements in detail.
+
+The template asks AI to blur visible license plates. Check the full result before sharing; this is a generation instruction, rather than a separate plate-detection and redaction step. Obscure identifying information in your source photo before uploading if needed.
 
 ## Keep your result
 
